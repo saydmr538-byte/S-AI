@@ -1,0 +1,12 @@
+
+{
+  "name": "S-AI Personal Assistant",
+  "short_name": "S-AI",
+  "description": "Your Personal AI Assistant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#151d32",
+  "orientation": "portrait"
+}
